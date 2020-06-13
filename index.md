@@ -1,10 +1,17 @@
 ## Welcome to Inyoung Lee's GitHub Page
 Software Engineer at Cisco
 
-## Education
+### Education
 Bachelor's degree in Engineering at Pennsylvania State University
 
 ### Professional Experience
+**Site Reliability Engineer at Cisco Systems**
+1. Designing and implementing deployment automation and configuration management
+2. Enhancing application code and making recommendations to the dev team to ease application operationalization
+3. Designing and enforcing best practices and standards for new application services
+4. Working with the dev team to ensure application availability targets are met
+5. Designing application monitoring to detect and help resolve problems
+6. Responding to and resolving technical emergencies
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
