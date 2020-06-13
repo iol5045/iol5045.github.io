@@ -14,7 +14,7 @@ Bachelor's degree in Engineering at Pennsylvania State University
 - Designing application monitoring to detect and help resolve problems
 - Responding to and resolving technical emergencies
 
-**Software Engineer Intern at Vapshion**
+**Software Engineer Intern at Vapshion**  
 *July 2018 - August 2018*, *February 2017 - November 2017*
 - Designed data structures and implemented a demonstration program for company’s next version of software
 - Debug and maintained the web-based application
@@ -22,14 +22,14 @@ Bachelor's degree in Engineering at Pennsylvania State University
 - Implemented front and back-end functions for file autosave, background music extension and program set up
 - Collaborated on video transition research and development
 
-**Software Developer at Trade Link**
+**Software Developer at Trade Link**   
 *July 2016 - January 2017*
 - Implemented web data crawler for data mining using Selenium web driver with Python
 - Implemented webpages using Ruby on Rails based on customer needs
 - Developed structural designs for various databases based upon logical data models
 - Managed communication with foreign buyers
 
-**QA Engineer Intern at Netmarble Games**
+**QA Engineer Intern at Netmarble Games**   
 *July 2015 - December 2015*
 - Received an IT training based on software engineering including software design, database, web, server, and security
 - Delivered customized test management tool and applied it to mobile QA team
@@ -39,23 +39,17 @@ Bachelor's degree in Engineering at Pennsylvania State University
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+
 Syntax highlighted code block
 
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
